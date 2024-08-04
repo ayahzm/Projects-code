@@ -1,0 +1,17 @@
+.hdr{
+    position: relative;
+    background-color: #005077;
+    color: #fff;
+    border-radius: 20px;
+    width: 50%;
+    height: 30px;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    position: 'absolute';
+    left: 25%;
+    top: 10%;
+    transform: 'translate(-50%, -50%)';
+    margin-bottom: 2%;
+}

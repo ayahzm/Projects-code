@@ -1,0 +1,64 @@
+.readmore{
+  position: relative;
+  left: 65%;
+  transform: translate(-50%, -10%);
+  padding: 10px;
+}
+
+.article-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  position: absolute;
+  margin-top: -19% ;
+  width: 100%;
+  font-size: larger;
+}
+
+.Article-box{
+  background-color: #dce3f7;
+  width: 95vw;
+  height: 130px;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 30px;
+}
+
+.Article{
+  color: #005077;
+  font-size: 20px;
+  text-align: left;
+}
+
+.custom-buttons{
+  float: right;
+}
+
+
+.modify{
+  background-color: #005077;
+  border-radius: 30px;
+  text-align: center;
+   padding: 15px;
+  width: 100px;
+  margin: 10px;
+  color: #fff;
+}
+
+.Add-Article{
+  position: fixed;
+  background-color: #005077;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  font-size: 45px;
+  text-align: center;
+  left:48%;
+  bottom:5%;
+  color: #fff;
+  
+}
+.image-article{
+  border-radius: 30px 30px 5px 5px;
+}
+

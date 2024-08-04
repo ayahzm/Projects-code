@@ -1,0 +1,47 @@
+.container{
+    position: relative;
+    display: inline;
+}
+
+.header{
+    position: absolute;
+    background-color: #005077;
+    color: #fff;
+    border-radius: 20px;
+    width: 50%;
+    height: 40px;
+    font-size: 32px;
+    text-align: center;
+    padding-top: 8px;
+    left: 300px;
+    bottom: 105%;
+}
+
+.Add-container{
+    position: absolute;
+    display: inline;
+    background-color: #005077;
+    color: #fff;
+    font-size: 30px;
+    width: 40px;
+    height: 50px;
+    text-align: center;
+    border-radius: 0 10px 10px 0;
+}
+
+.Post-container button{
+    float: right;
+    background-color: #EFAE7D;
+    color: #fff;
+    font-size: 25px;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 50px;
+}
+
+.Author-add{
+    display: block;
+}
+
